@@ -1,7 +1,15 @@
-/workspace/trainingData/DE.lstmf
-/workspace/trainingData/Sermon.lstmf
-/workspace/trainingData/abufo.lstmf
-/workspace/trainingData/contra.lstmf
-/workspace/trainingData/dellas.lstmf
-/workspace/trainingData/el.lstmf
-/workspace/trainingData/que.lstmf
+/workspace/trainingData/words/el.lstmf
+/workspace/trainingData/words/Sermon.lstmf
+/workspace/trainingData/words/DE.lstmf
+/workspace/trainingData/words/dellas.lstmf
+/workspace/trainingData/words/contra.lstmf
+/workspace/trainingData/words/que.lstmf
+/workspace/trainingData/words/abufo.lstmf
+/workspace/trainingData/sentances/magis volutaturn populum, aut ad ea procliuiorem vi-.lstmf
+/workspace/trainingData/sentances/AL PIO LETOR.lstmf
+/workspace/trainingData/sentances/Sermon que contra el abufo dellas predico en.lstmf
+/workspace/trainingData/sentances/los mifmos, hizieron oftentacion de fus perfpnas encan-.lstmf
+/workspace/trainingData/sentances/San Vicente, la tarde de la Circuncifion defte.lstmf
+/workspace/trainingData/sentances/Ano de 1629.lstmf
+/workspace/trainingData/sentances/DE COMEDIAS.lstmf
+/workspace/trainingData/sentances/inuectiua en tales circunftancias de tiempo, lugar,.lstmf
