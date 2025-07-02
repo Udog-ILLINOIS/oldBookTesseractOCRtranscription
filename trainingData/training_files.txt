@@ -1,0 +1,7 @@
+/workspace/trainingData/DE.lstmf
+/workspace/trainingData/Sermon.lstmf
+/workspace/trainingData/abufo.lstmf
+/workspace/trainingData/contra.lstmf
+/workspace/trainingData/dellas.lstmf
+/workspace/trainingData/el.lstmf
+/workspace/trainingData/que.lstmf
