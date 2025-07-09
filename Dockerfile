@@ -13,7 +13,7 @@ RUN apt update && apt install -y \
     fonts-dejavu fonts-liberation fonts-freefont-ttf \
     && apt clean
 
-# --- Build Tesseract with training enabled ---
+# Build Tesseract with training on
 WORKDIR /opt
 RUN git clone --branch 4.1.1 https://github.com/tesseract-ocr/tesseract.git && \
     cd tesseract && \
@@ -25,7 +25,7 @@ RUN git clone --branch 4.1.1 https://github.com/tesseract-ocr/tesseract.git && \
     make training-install && \
     ldconfig
 
-# --- Download Spanish and English traineddata ---
+# Download Spanish and English traineddata 
 RUN mkdir -p /usr/local/share/tessdata && \
     wget -O /usr/local/share/tessdata/spa.traineddata \
     https://github.com/tesseract-ocr/tessdata_best/raw/main/spa.traineddata && \
